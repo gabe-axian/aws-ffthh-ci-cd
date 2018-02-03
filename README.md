@@ -6,7 +6,7 @@ The walkthrough **[can be found here](https://axianinc.atlassian.net/wiki/spaces
 ## Build Light
 At some point you'll end up replacing the build light below with one of your own:
 
-<img src="https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoieS9yTHR3OTRhMkIwbUtjZ2F6UlpjMm9VeEZQYzNlTjJOUzBMVktDZldJeEdrUHBmKzlMR2ltWHREcktGK1RaZ0tlY1NtTkUybUN4QVk3RW5xbjFwVXVFPSIsIml2UGFyYW1ldGVyU3BlYyI6IkRGWVNqK0c1NGVLRVJsWk8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master">
+<img src="https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibk45SWVtTWhSNHcxbm9iUHNnYk14WFRGTlhpeWJ4ejJNUGIxY0pxS3lYRFJiTU14MXRRejEzbHNVcEpycGUxbnNQUmN0NDU0RUp4cnp2dlRTdysxQTdnPSIsIml2UGFyYW1ldGVyU3BlYyI6Ilg4YVB6b0ZhK1F1MWdEbjQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master">
 
 ## Add More Sams! (the squirrel bouncing around the page)
 Go to app.js file the repo you made in Step 2 and update the line:
